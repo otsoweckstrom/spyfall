@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spyfall/static/css/main.badb3b9f.css",
+    "main.js": "/spyfall/static/js/main.48e29ae1.js",
+    "static/js/787.66107b45.chunk.js": "/spyfall/static/js/787.66107b45.chunk.js",
+    "index.html": "/spyfall/index.html",
+    "main.badb3b9f.css.map": "/spyfall/static/css/main.badb3b9f.css.map",
+    "main.48e29ae1.js.map": "/spyfall/static/js/main.48e29ae1.js.map",
+    "787.66107b45.chunk.js.map": "/spyfall/static/js/787.66107b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.badb3b9f.css",
+    "static/js/main.48e29ae1.js"
+  ]
+}
